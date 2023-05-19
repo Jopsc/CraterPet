@@ -1,0 +1,6 @@
+_G.Key = "wsxqaz11358"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/NewPsxScript/main/PsxLoader"))()
+
+
+  
